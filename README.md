@@ -225,7 +225,7 @@ NordVPN拥有全球超过5000台服务器，覆盖60多个国家。这些服务�
 
 ****
 
-### 便宜VPN（六）：<a href="https://bit.ly/ep-vpn" rel="nofollow">ExpressVPN - 6.67美金/月，1年套餐赠送3个月节省49%（在中国非常好用，速度也最快）</a>
+### 便宜VPN（六）：<a href="https://bit.ly/ep-vpn" rel="nofollow">ExpressVPN - 6.67美金/月，买1年送3个月省49%（在中国非常好用）</a>
 
 ![ExpressVPN Banner：便宜的VPN，中国好用的便宜VPN推荐](https://raw.githubusercontent.com/chinavpns/cheapvpn.github.io/main/image/ExpressVPN-CheapVPN.jpg)
 
