@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fe01a1a1-620a-4b51-822c-a5c0fa8f4da0)# 2024年中国好用的便宜VPN推荐（含最新VPN优惠券）
+# 2024年中国好用的便宜VPN推荐（含最新VPN优惠券）
 
 ***最近更新于：2024年7月19日***
 
