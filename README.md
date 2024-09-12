@@ -519,4 +519,4 @@ VPN的服务器数量和覆盖范围对流媒体访问至关重要。拥有大�
 
 * <a href=https://github.com/chinavpns/freevpn.github.io>免费VPN推荐</a>：2024年最好用的免费VPN推荐！本文将会给大家推荐几款在中国国内可用的免费VPN加速器（包含大陆永久免费VPN）和提供30天免费试用的顶级付费VPN软件！
 
-* <a href=https://chinavpns.gitbook.io/chinavpns>最好用的VPN排行</a>：本文为大家推荐2024年最好用的中国VPN，帮助用户找到适合自己的翻墙工具，确保在网络严控环境下依然能够自由、安全地访问全球互联网。
+* <a href=https://github.com/chinavpns/telegram>Telegram注册</a>：2024年国内手机号注册Telegram收不到验证码怎么办？本文还将会详细介绍如何下载、安装、注册和使用Telegram电报，并会为大家提供在中国使用Telegram电报的一些实用建议！
