@@ -10,7 +10,7 @@
 
 * **<a href="https://bit.ly/ep-vpn" rel="nofollow">Ivacy VPN</a>**：1.19美金/月，3年套餐节省88%（最便宜的VPN，但无法在中国使用）
 * **<a href="https://bit.ly/pe-vpn" rel="nofollow">PureVPN</a>**：2.11美金/月，2年套餐赠送3个月节省81% （**翻墙稳定，便宜又好用的VPN**）
-* **<a href="https://bit.ly/ep-vpn" rel="nofollow">CyberGhost</a>**：2.15美金/月，2年套餐赠送2个月节省83%（比较便宜，但也无法在中国使用）
+* **<a href="https://bit.ly/ep-vpn" rel="nofollow">CyberGhost</a>**：2.15美金/月，2年套餐赠送2个月节省83%（比较便宜，但无法在中国使用）
 * **<a href="https://bit.ly/surf-vpn" rel="nofollow">Surfshark</a>**：2.49美金/月，2年套餐节省81%（可以在中国使用）
 * **<a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=32836&url_id=902" rel="nofollow">NordVPN</a>**：3.29美金/月，2年套餐赠送3个月节省72% （可以在中国使用）
 * **<a href="https://bit.ly/ep-vpn" rel="nofollow">ExpressVPN</a>**：6.67美金/月，1年套餐赠送3个月节省49%（**最靠谱便宜VPN，在中国非常好用，速度也最快**）
@@ -59,7 +59,7 @@
 
 在众多VPN服务中，我们精心挑选了2024年最优质的便宜VPN，并整理了最新的优惠券信息。这些VPN不仅价格实惠，而且在速度、安全性和用户体验方面表现出色，特别适合在中国使用。无论你是需要保护隐私，还是想要访问被封锁的网站，以下推荐的便宜好用的VPN都能满足你的需求。接下来，我们将详细介绍每款VPN的特点和优惠信息，帮助你做出最明智的选择。
 
-### 便宜VPN（一）：<a href="https://bit.ly/ep-vpn" rel="nofollow">Ivacy VPN - 1.19美金/月，3年套餐节省88%（在中国不太好用）</a>
+### 最便宜VPN（一）：<a href="https://bit.ly/ep-vpn" rel="nofollow">Ivacy VPN - 1.19美金/月，3年套餐节省88%（无法在中国使用）</a>
 
 ![IvacyVPN Banner：便宜的VPN，中国好用的便宜VPN推荐](https://raw.githubusercontent.com/chinavpns/cheapvpn.github.io/main/image/IvacyVPN-CheapVPN.jpg)
 
