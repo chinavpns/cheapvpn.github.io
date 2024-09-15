@@ -8,7 +8,7 @@
 
 如果你没有时间阅读完本文，请查看下面这几款2024年最好用的便宜VPN推荐简讯：
 
-* **<a href="https://bit.ly/ep-vpn" rel="nofollow">Ivacy VPN</a>**：1.19美金/月，3年套餐节省88%（在中国不太好用）
+* **<a href="https://bit.ly/ep-vpn" rel="nofollow">Ivacy VPN</a>**：1.19美金/月，3年套餐节省88%（无法在中国使用）
 * **<a href="https://bit.ly/pe-vpn" rel="nofollow">PureVPN</a>**：2.11美金/月，2年套餐赠送3个月节省81% （在中国比较好用）
 * **<a href="https://bit.ly/ep-vpn" rel="nofollow">CyberGhost</a>**：2.15美金/月，2年套餐赠送2个月节省83%（无法在中国使用）
 * **<a href="https://bit.ly/surf-vpn" rel="nofollow">Surfshark</a>**：2.49美金/月，2年套餐节省81%（可以在中国使用）
