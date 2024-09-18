@@ -59,7 +59,7 @@
 
 在众多VPN服务中，我们精心挑选了2024年最优质的便宜VPN，并整理了最新的优惠券信息。这些VPN不仅价格实惠，而且在速度、安全性和用户体验方面表现出色，特别适合在中国使用。无论你是需要保护隐私，还是想要访问被封锁的网站，以下推荐的便宜好用的VPN都能满足你的需求。接下来，我们将详细介绍每款VPN的特点和优惠信息，帮助你做出最明智的选择。
 
-### 最便宜VPN（一）：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">Ivacy VPN - 1.19美金/月，3年套餐节省88%（无法在中国使用）</a>
+### 最便宜VPN（一）：Ivacy VPN - 1.19美金/月，3年套餐节省88%（无法在中国使用）
 
 ![IvacyVPN Banner：便宜的VPN，中国好用的便宜VPN推荐](https://raw.githubusercontent.com/chinavpns/cheapvpn.github.io/main/image/IvacyVPN-CheapVPN.jpg)
 
@@ -87,7 +87,7 @@ Ivacy VPN以其超低的价格吸引了大量用户，特别是其三年套餐�
 
 总的来说，Ivacy VPN是一款性价比极高的VPN服务，特别适合预算有限的用户。然而，如果你的主要需求是在中国使用，建议考虑其他更为稳定的VPN选项。无论如何，通过关注官方促销活动和利用本站专属链接，你可以以最低的价格订阅到这款便宜好用的VPN服务。
 
-**<p align="center"><a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">立即获取IvacyVPN</a></p>**
+**<p align="center"><a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">注意：Ivacy VPN不适合在中国大陆使用，请优选ExpressVPN</a></p>**
 
 ****
 
