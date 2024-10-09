@@ -541,6 +541,8 @@ LimeVPN的价格极其低廉，但其服务质量也相应较低。该VPN的连�
 
 * <a href=https://github.com/chinavpns/androidvpn.github.io>安卓翻墙</a>和<a href=https://github.com/chinavpns/androidvpn.github.io>安卓VPN推荐</a>：2024年最好用的安卓VPN推荐！本文将详细介绍多种安卓翻墙方法，并推荐几款最佳的安卓翻墙软件，让你可以自由访问海外Netflix、Youtube、ChatGPT等网站。
 
+* <a href=https://github.com/chinavpns/router-vpn>路由器翻墙</a>和<a href=https://github.com/chinavpns/router-vpn>路由器VPN推荐</a>：本文将详细介绍路由器翻墙的优缺点，并提供华为路由器、小米路由器和TP-Link路由器的翻墙教程。此外，我们还会为大家推荐几款最好用的路由器VPN和翻墙路由器，帮助你轻松实现网络自由。
+
 * <a href=https://github.com/chinavpns/freevpn.github.io>免费VPN推荐</a>：2024年最好用的免费VPN推荐！本文将会给大家推荐几款在中国国内可用的免费VPN加速器（包含大陆永久免费VPN）和提供30天免费试用的顶级付费VPN软件！
 
 * <a href=https://github.com/chinavpns/telegram>Telegram注册</a>：2024年国内手机号注册Telegram收不到验证码怎么办？本文还将会详细介绍如何下载、安装、注册和使用Telegram电报，并会为大家提供在中国使用Telegram电报的一些实用建议！
