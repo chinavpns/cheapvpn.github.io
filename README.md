@@ -13,7 +13,7 @@
 * **<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">CyberGhost</a>**：2.15美金/月，2年套餐赠送2个月节省83%（比较便宜，但无法在中国使用）
 * **<a href="https://wallvpn.com/go/surfsharkvpn/" rel="nofollow">Surfshark</a>**：2.49美金/月，2年套餐节省81%（可以在中国使用）
 * **<a href="https://wallvpn.com/go/nordvpn/" rel="nofollow">NordVPN</a>**：3.29美金/月，2年套餐赠送3个月节省72% （可以在中国使用）
-* **<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN</a>**：6.67美金/月，1年套餐赠送3个月节省49%（**最靠谱便宜VPN，在中国非常好用，速度也最快**）
+* **<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN</a>**：4.99美金/月，2年套餐赠送6个月节省61%（**最靠谱便宜VPN，在中国非常好用，速度也最快**）
 
 以上六款是2024年最好用的便宜VPN，其中PureVPN、Surfshark、NordVPN和ExpressVPN能在中国使用，它们翻墙稳定，安全性高，速度快，兼容性好，价格便宜，提供24小时在线客服和30天退款保证。
 
