@@ -227,11 +227,11 @@ NordVPN拥有全球超过5000台服务器，覆盖60多个国家。这些服务�
 
 ****
 
-### 便宜VPN（六）：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN - 6.67美金/月，买1年送3个月省49%（在中国非常好用）</a>
+### 便宜VPN（六）：<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN - 4.99美金/月，买2年送6个月省61%（在中国非常好用）</a>
 
 ![ExpressVPN Banner：便宜的VPN，中国好用的便宜VPN推荐](https://raw.githubusercontent.com/chinavpns/cheapvpn.github.io/main/image/ExpressVPN-CheapVPN.jpg)
 
-ExpressVPN以其卓越的性能和稳定性成为中国用户的首选VPN。其1年套餐每月费用为6.67美金，并额外赠送3个月。尽管价格比其他便宜VPN略高，但其卓越的速度、安全性和全球服务器覆盖使得这款VPN物有所值。
+ExpressVPN以其卓越的性能和稳定性成为中国用户的首选VPN。其2年套餐每月费用为4.99美金，并额外赠送6个月。尽管价格比其他便宜VPN略高，但其卓越的速度、安全性和全球服务器覆盖使得这款VPN物有所值。
 
 **推荐理由：**
 
@@ -242,9 +242,9 @@ ExpressVPN以其卓越的性能和稳定性成为中国用户的首选VPN。其1
 
 **不足之处：**
 
-* 价格略高：每月6.67美金，相比其他便宜VPN稍贵。
+* 价格略高：每月4.99美金，相比其他便宜VPN稍贵。
 
-ExpressVPN以其在中国的卓越表现和强大的功能，成为众多用户心目中便宜好用的VPN。其1年套餐每月费用为6.67美金，并额外赠送3个月，总体价格虽略高于其他便宜VPN，但其稳定的连接、快速的速度和强大的安全功能使得这款VPN物有所值。
+ExpressVPN以其在中国的卓越表现和强大的功能，成为众多用户心目中便宜好用的VPN。其2年套餐每月费用为4.99美金，并额外赠送6个月，总体价格虽略高于其他便宜VPN，但其稳定的连接、快速的速度和强大的安全功能使得这款VPN物有所值。
 
 ExpressVPN在中国的表现尤为出色，能够稳定地翻墙，确保用户能够快速、安全地访问全球网络。无论是浏览被封锁的网站，还是观看流媒体，ExpressVPN都能提供流畅的连接和优质的用户体验。其强大的穿透防火墙能力，使得ExpressVPN成为中国用户翻墙的理想选择。
 
