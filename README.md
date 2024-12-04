@@ -15,7 +15,7 @@
 * **<a href="https://wallvpn.com/go/nordvpn/" rel="nofollow">NordVPN</a>**：3.29美金/月，2年套餐赠送3个月节省72% （可以在中国使用）
 * **<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN</a>**：4.99美金/月，2年套餐赠送6个月节省61%（**最靠谱便宜VPN，在中国非常好用，速度也最快**）
 
-以上六款是2024年最好用的便宜VPN，其中PureVPN、Surfshark、NordVPN和ExpressVPN能在中国使用，它们翻墙稳定，安全性高，速度快，兼容性好，价格便宜，提供24小时在线客服和30天退款保证。
+以上六款是2024年最好用的便宜VPN，其中PureVPN、Surfshark、NordVPN和ExpressVPN能在中国使用，它们翻墙稳定，安全性高，速度快，兼容性好，价格便宜，提供24小时在线客服和30天退款保证。注意：如果你不清楚如何下载VPN iOS客户端，请参考“<a href="https://github.com/chinavpns/iosvpn.github.io">iOS翻墙</a>”教程！
 
 ## 如何才能买到优质的便宜VPN？
 
