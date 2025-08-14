@@ -1,6 +1,6 @@
 # <p align="center">2025年中国好用的便宜VPN推荐（含最新VPN优惠券）</p>
 
-<p align="center">最近更新于：2025年7月6日</p>
+<p align="center">最近更新于：2025年8月14日</p>
 
 ![中国最好用的便宜VPN推荐：靠谱、安全、可靠](https://raw.githubusercontent.com/chinavpns/cheapvpn.github.io/main/image/%E6%9C%80%E4%BE%BF%E5%AE%9CVPN%E6%8E%A8%E8%8D%90.png)
 
