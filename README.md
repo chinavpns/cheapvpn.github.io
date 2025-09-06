@@ -523,7 +523,7 @@ LimeVPN的价格极其低廉，但其服务质量也相应较低。该VPN的连�
 * **<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">CyberGhost</a>**：2.15美金/月，2年套餐赠送2个月节省83%（比较便宜，但无法在中国使用）
 * **<a href="https://wallvpn.com/go/surfsharkvpn/" rel="nofollow">Surfshark</a>**：2.49美金/月，2年套餐节省81%（可以在中国使用）
 * **<a href="https://wallvpn.com/go/nordvpn/" rel="nofollow">NordVPN</a>**：3.29美金/月，2年套餐赠送3个月节省72% （可以在中国使用）
-* **<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN</a>**：4.99美金/月，2年套餐赠送6个月节省61%（**最靠谱便宜VPN，在中国非常好用，速度也最快**）
+* **<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN</a>**：3.49美金/月，2年套餐赠送4个月节省73%（**最靠谱便宜VPN，在中国非常好用，速度也最快**）
 
 每款VPN都有其独特的优点和适用场景，具体选择应根据个人需求和使用环境而定。无论是为了在中国翻墙、保护隐私，还是流畅访问国际流媒体，以上推荐的便宜VPN都能为你提供可靠的服务和优质的用户体验。通过选择合适的VPN，你可以在享受高性价比的同时，确保网络安全和自由。
 
